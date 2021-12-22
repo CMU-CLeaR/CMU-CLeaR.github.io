@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description:
 
@@ -17,3 +17,5 @@ Welcome to the CLeaR Group! CLeaR is a research group led by [Professor Kun Zhan
 
 **Research synopsis**: Our research interests lie in machine learning and artificial intelligence, especially in causal 
 discovery and causality-based learning.
+
+<br><br>

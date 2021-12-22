@@ -1,13 +1,10 @@
 ---
 layout: page
-title: open-source
+title: Open-source
 permalink: /open-source/
-description: We are actively developing methods for automated causal discovery from various kinds of data, e.g. 
-[causal-learn](https://causal-learn.readthedocs.io/en/latest/), a newly released Python package for causal discovery.
-We will open source the code of our papers here constantly. To enable fair evaluation, here we will also maintain a 
-list of benchmark datasets that represent real-world problems and various learning tasks.
+description: <ul> <li>We are actively developing methods for automated causal discovery from various kinds of data.</li> <li>We will continue to open source the code of our the most recent work here.</li> <li>To enable fair evaluation, here we will also maintain a list of benchmark datasets that represent real-world problems and various learning tasks.</li> </ul>
 nav: true
-display_categories: [project]
+display_categories: [Code/Packages, Benchmarks]
 horizontal: false
 ---
 
