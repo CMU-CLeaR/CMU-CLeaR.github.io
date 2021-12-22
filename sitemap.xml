@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://cmu-clear.github.io/news/causal-learn/</loc>
+<lastmod>2021-11-12T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://cmu-clear.github.io/news/group_website/</loc>
+<lastmod>2021-12-20T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://cmu-clear.github.io/projects/opensource_causal-learn/</loc>
+<lastmod>2021-12-22T05:03:01+00:00</lastmod>
+</url>
+<url>
+<loc>https://cmu-clear.github.io/</loc>
+</url>
+<url>
+<loc>https://cmu-clear.github.io/blog/</loc>
+</url>
+<url>
+<loc>https://cmu-clear.github.io/open-source/</loc>
+</url>
+<url>
+<loc>https://cmu-clear.github.io/people/</loc>
+</url>
+<url>
+<loc>https://cmu-clear.github.io/publications/</loc>
+</url>
+<url>
+<loc>https://cmu-clear.github.io/teaching_talks/</loc>
+</url>
+</urlset>
