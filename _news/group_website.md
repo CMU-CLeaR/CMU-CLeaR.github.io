@@ -1,7 +1,7 @@
 ---
 layout: post
-date: Oct 26, 2021
+date: Dec 20, 2021
 inline: true
 ---
 
-The (renewed) group website is now live!
+Our group website is now under development :)

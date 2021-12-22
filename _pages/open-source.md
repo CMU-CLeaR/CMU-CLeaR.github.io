@@ -2,13 +2,14 @@
 layout: page
 title: open-source
 permalink: /open-source/
-description: On June 11th, 2020, we launched the <a href="http://casl-project.ai/"><u>CASL</u></a> (Composible, Automatic, and Scable ML) open source consortium that brings our research and development at Petuum Inc. and CMU Sailing Lab on Distributed ML (e.g., AutoDist, AdaptDL), Automated ML (e.g., Dragonfly, ProBO), and Composable ML (e.g., Texar, Forte) implemented across PyTorch and TensorFlow under a unified umbrella for a Production and Industrial AI Platform.
+description: We are actively developing methods for automated causal discovery from various kinds of data, e.g. 
+[causal-learn](https://causal-learn.readthedocs.io/en/latest/), a newly released Python package for causal discovery.
+We will open source the code of our papers here constantly. To enable fair evaluation, here we will also maintain a 
+list of benchmark datasets that represent real-world problems and various learning tasks.
 nav: true
 display_categories: [project]
 horizontal: false
 ---
-
-<b>SAILING Members:</b> If you want to add your open-source project to this page, please refer to the <a href="https://github.com/sailing-lab/sailing-lab.github.io/blob/main/docs/open-source.md">instruction</a>.
 
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
